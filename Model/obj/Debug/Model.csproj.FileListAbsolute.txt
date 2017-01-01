@@ -1,0 +1,5 @@
+F:\holiday\Campus\Model\bin\Debug\CP.Campus.Model.dll
+F:\holiday\Campus\Model\bin\Debug\CP.Campus.Model.pdb
+F:\holiday\Campus\Model\obj\Debug\CP.Campus.Model.dll
+F:\holiday\Campus\Model\obj\Debug\CP.Campus.Model.pdb
+F:\holiday\Campus\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

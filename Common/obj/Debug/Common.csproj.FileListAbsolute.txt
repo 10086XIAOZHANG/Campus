@@ -1,0 +1,9 @@
+F:\holiday\Campus\Common\bin\Debug\CP.Campus.Common.dll
+F:\holiday\Campus\Common\bin\Debug\CP.Campus.Common.pdb
+F:\holiday\Campus\Common\bin\Debug\COM.Excel.dll
+F:\holiday\Campus\Common\bin\Debug\Excel.dll
+F:\holiday\Campus\Common\bin\Debug\OpenSmtp.dll
+F:\holiday\Campus\Common\bin\Debug\OWC10Chart.dll
+F:\holiday\Campus\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\holiday\Campus\Common\obj\Debug\CP.Campus.Common.dll
+F:\holiday\Campus\Common\obj\Debug\CP.Campus.Common.pdb

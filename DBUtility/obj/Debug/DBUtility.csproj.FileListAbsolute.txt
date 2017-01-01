@@ -1,0 +1,9 @@
+F:\holiday\Campus\DBUtility\bin\Debug\CP.Campus.DBUtility.dll
+F:\holiday\Campus\DBUtility\bin\Debug\CP.Campus.DBUtility.pdb
+F:\holiday\Campus\DBUtility\bin\Debug\IBatisNet.Common.dll
+F:\holiday\Campus\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+F:\holiday\Campus\DBUtility\bin\Debug\MySql.Data.dll
+F:\holiday\Campus\DBUtility\bin\Debug\System.Data.SQLite.DLL
+F:\holiday\Campus\DBUtility\obj\Debug\CP.Campus.DBUtility.dll
+F:\holiday\Campus\DBUtility\obj\Debug\CP.Campus.DBUtility.pdb
+F:\holiday\Campus\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
